@@ -1,0 +1,9 @@
+1. Upewnić się o zainstalowanym Python'ie w wersji min 3.8x
+2. W folderze App znależć plik tekstowy Data.txt
+3. Otworzyć i wkleić dane liczbowe, dla których chcemy wykonac obliczenia
+4. Zapisać i zamknąć plik Data.txt
+5. Uruchomić plik Run.py i postępować zgodnie z instrukcją
+
+
+Uwagi:
+-wprowadzone liczby powinny być wprowadzone ze spacja odstępu od każdej liczby bez przecinka itp np. (20 15 30 63)
